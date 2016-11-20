@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_f94c3e10546af146c245253569de8cc5f36c6610.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_df1e8ceac472514aea7c0202487225b5235a2db9/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_00497d9911bf0f33d1d969d7f84971aee3b46478.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_82ee6f24d575b7879a641d82ffdd87de257852cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_eee8b17bd1d337c35125945047912643a627df1f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.8.0_925d8cada0e3333f14ae19bead9e22934e3640ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_0d601b53638ae40baa70e09173b632d6c96f2d58/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_af15f5c8daa3216ed2d18e3a10a341dad2214b3e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_eee8b17bd1d337c35125945047912643a627df1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_0d601b53638ae40baa70e09173b632d6c96f2d58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.8.0_925d8cada0e3333f14ae19bead9e22934e3640ac.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_82ee6f24d575b7879a641d82ffdd87de257852cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_c812b34b3cfe9a4192171457dc26a0712000ba79.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_c812b34b3cfe9a4192171457dc26a0712000ba79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_f94c3e10546af146c245253569de8cc5f36c6610/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_df1e8ceac472514aea7c0202487225b5235a2db9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_398dc2854455865cd82b6d5f8ec0006113139395.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2999fc2dcbea68cf2bee8f5563978a9cc608df40/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2999fc2dcbea68cf2bee8f5563978a9cc608df40.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_398dc2854455865cd82b6d5f8ec0006113139395/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_a5c85d9ed32252ae26134ce44980018ed0a24dfe.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_a5c85d9ed32252ae26134ce44980018ed0a24dfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_8565973c051f6d6c94166430a2498effb5cf2cf8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_af15f5c8daa3216ed2d18e3a10a341dad2214b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_cc097629b67950b9398daadba2ae8a24b4653a36.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_8565973c051f6d6c94166430a2498effb5cf2cf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_e6fa71dff46dffb5fe83cbcc843b201835fceb47/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_d704a56f41bf424da2d083ad82b470e26a0dd056.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_cc097629b67950b9398daadba2ae8a24b4653a36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_d704a56f41bf424da2d083ad82b470e26a0dd056/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b3cc1c10a6f8b49d18466f5affc9968fc730136">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6d1436c8419888867b2b09f4958df71c22092bd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_2d47803da745a242799abdfc7e6fbce438b9d0d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a2d2652bbf5acc82e44f0a38951c9d3d7a3e8052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.8.0_de1929db471573c0bc95c0e0d63dd7cb46fd6424/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_2d47803da745a242799abdfc7e6fbce438b9d0d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.8.0_6caa73408e752badccae30baf390747d97ecac8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.8.0_de1929db471573c0bc95c0e0d63dd7cb46fd6424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a2d2652bbf5acc82e44f0a38951c9d3d7a3e8052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.8.0_6caa73408e752badccae30baf390747d97ecac8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_e6fa71dff46dffb5fe83cbcc843b201835fceb47.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a515c252de963c4c536e0284d492d60c1e153d0f">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_912d27eeb1a40bf535212cc19fd896d9ab6c09a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_6b25692e37bae35eec3dec234bcff708add87d68.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.8.0_c1b9e5dd697484eb019c307a211d7f0b743a0a17/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.8.0_c1b9e5dd697484eb019c307a211d7f0b743a0a17.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_6b25692e37bae35eec3dec234bcff708add87d68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/coupang/work/HayaSeoul/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/coupang/work/HayaSeoul/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_00497d9911bf0f33d1d969d7f84971aee3b46478/classes.dex" />
+    </item>
+
+</items>
